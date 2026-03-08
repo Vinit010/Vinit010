@@ -1,55 +1,94 @@
-# Hi 👋 I'm Vinit Wandile
+# Hi 👋, I'm Vinit Wandile
 
-💻 Data Engineering Enthusiast  
+💻 Data Analyst | Data Engineering Enthusiast  
 📍 Pune, India  
+🚀 Passionate about Data, Big Data Technologies and Building Scalable Solutions  
 
 ---
 
-## 🚀 Skills
+## 🚀 About Me
 
-- SQL
+- 🎓 Computer Science Engineering Student
+- 📊 Learning **Data Engineering & Data Analytics**
+- 🐍 Currently learning **Python for Data Processing**
+- ⚡ Skilled in **SQL, Java, Spark, React**
+- 📈 Interested in **Big Data, ETL Pipelines and Data Analysis**
+- 💼 Open to **Freelance & Internship Opportunities**
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
 - Python
-- PySpark
 - Java
-- Big Data
+- SQL
+- JavaScript
+
+### Data Technologies
+- Apache Spark
+- Hadoop
+- PySpark
 - ETL Pipelines
-- Data Analysis
+- Data Cleaning
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 ---
 
-## 📊 Projects
+## 📊 My Projects
 
-🔹 SQL Data Cleaning Project  
-🔹 Spark Big Data Analysis  
-🔹 Loan Data Processing using PySpark  
-🔹 React Web Applications  
+🔹 **SQL Data Cleaning Project**  
+Data cleaning using SQL including duplicate removal, standardization and NULL handling.
+
+🔹 **Big Data Analysis using Spark**  
+Processing large datasets using Spark and Scala.
+
+🔹 **Loan Data Processing using PySpark**  
+Large-scale loan dataset transformation and analysis.
+
+🔹 **React Web Applications**  
+Frontend development using React and JavaScript.
 
 ---
 
 ## 📚 Currently Learning
 
 - Python for Data Engineering
-- Apache Spark
+- PySpark
 - Data Pipelines
-- Cloud Technologies
+- Cloud Platforms
+
+---
+
+## 📈 GitHub Stats
+
+![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinit010&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit010&theme=tokyo-night)
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/Vinit010## Hi there 👋
+- GitHub: https://github.com/Vinit010
+- LinkedIn: (Add your LinkedIn here)
+- Email: (Add your email)
 
-<!--
-**Vinit010/Vinit010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **If you like my projects, feel free to star them!**
