@@ -71,18 +71,6 @@ Frontend development using React and JavaScript.
 
 ---
 
-## 📈 GitHub Stats
-
-![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinit010&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinit010&theme=tokyo-night)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Vinit010
