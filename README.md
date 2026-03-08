@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vinit Wandile
 
-💻 Data Analyst | Data Engineering Enthusiast  
+💻 Data Engineering Enthusiast  
 📍 Pune, India  
 🚀 Passionate about Data, Big Data Technologies and Building Scalable Solutions  
 
