@@ -86,8 +86,7 @@ Frontend development using React and JavaScript.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Vinit010
-- LinkedIn: (Add your LinkedIn here)
-- Email: (Add your email)
+- Email: vinitwandile@gmail.com
 
 ---
 
