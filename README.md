@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Vinit Wandile
+# Hi 👋, I'm Vinit
 
 ### Data Engineer | Cloud Enthusiast | Software Engineer
 
